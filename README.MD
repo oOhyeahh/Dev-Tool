@@ -24,6 +24,7 @@
 - JSON Formatter
 
 ## Others
+- [Kite](https://kite.com/download/)
 - HomeBrew
   ```sh
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
